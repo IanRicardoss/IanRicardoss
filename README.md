@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/IanRicardoss" target="_blank" rel="noreferrer"><img src="https://github.com/IanRicardoss/IanRicardoss/blob/0c5eb874483c628985228bde47cb7af43fe21cae/BANNER%20GITHUB.jpg" alt="my banner"></a>
+ <img src="https://github.com/IanRicardoss/IanRicardoss/blob/0c5eb874483c628985228bde47cb7af43fe21cae/BANNER%20GITHUB.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -22,7 +22,7 @@ I love the process of developing and automating processes. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-<div style="display: inline_block" >
+<div align="center">
   <a href="https://github.com/IanRicardoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IanRicardoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRicardoss&layout=compact&langs_count=7&theme=dark"/>
