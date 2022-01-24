@@ -7,7 +7,7 @@ Hi there, I'm Ian 👋
 </h3>
 
 <h2 align="center">
-I'm a Industrial Automation programmer and Full-Stack Web Developer learner 💻
+I'm a Industrial Automation Programmer and Full-Stack Web Developer learner 💻
 </h2> 
 
 I love the process of developing and automating processes. I love the challenge of finding caches and spending time to meet new people.
