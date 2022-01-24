@@ -2,7 +2,15 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/IanRicardoss/IanRicardoss/blob/0c5eb874483c628985228bde47cb7af43fe21cae/BANNER%20GITHUB.jpg" alt="my banner"></a>
 </p>
 
-## HELLO, FRIEND
+<h3 align="center">
+Hi there, I'm Ian 👋
+</h3>
+
+<h2 align="center">
+I'm a Industrial Automation programmer and Full-Stack Web Developer learner 💻
+</h2> 
+
+I love the process of developing and automating processes. I love the challenge of finding caches and spending time to meet new people.
 
 
 <div style="display: inline_block" >
