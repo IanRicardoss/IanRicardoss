@@ -12,6 +12,15 @@ I'm a Industrial Automation programmer and Full-Stack Web Developer learner 💻
 
 I love the process of developing and automating processes. I love the challenge of finding caches and spending time to meet new people.
 
+## 🔭 I'm currently working on
+
+- Programming in C focused on ATMEL microcontrollers for automation of industrial processes in the area of lettuce production in vertical farms.
+
+## 🌱 I'm currently learning
+
+- 📱 javascript algorithms and data structures
+
+## 📈 GitHub Stats 
 
 <div style="display: inline_block" >
   <a href="https://github.com/IanRicardoss">
@@ -19,7 +28,7 @@ I love the process of developing and automating processes. I love the challenge 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRicardoss&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-##
+## 💼 Technical Skills
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ian-Assembly" height="30" width="40" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610">
@@ -36,7 +45,7 @@ I love the process of developing and automating processes. I love the challenge 
   <img align="center" alt="Ian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
-##
+### 🤝 Connect with me:
   
   <div align="center">
   <a href = "mailto:ian.ricardoss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
