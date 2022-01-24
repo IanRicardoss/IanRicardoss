@@ -1,30 +1,32 @@
 ## HELLO, FRIEND
-Respira fundo, sorria e deixa as preocupações de lado. 
+
 ##
-### Sobre mim
-- 🔭 Futura back-end
-- 📚 Aluna da Alura
-- ⛺ Camper na 42SP
-- 🌱 Estudando ReactJS: Bootcamp Eduzz Fullstack Developer #2 na DIO
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Eu acreditei naquele filme que diz: "30 é a idade do sucesso". Filmes... 🤦🏻‍♀️
-##
+
 <div style="display: inline_block" >
   <a href="https://github.com/IanRicardoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IanRicardoss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRicardoss&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
+##
   
-  <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Holi-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Holi-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Holi-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Holi-GitHub" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-    <img align="center" alt="Holi-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-    <img align="center" alt="Holi-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Holi-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-    <img align="center" alt="Holi-Ts" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Holi-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Ian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="Ian-Assembly" height="30" width="40" src="">
+  <img align="center" alt="Ian-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Ian-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Ian-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Ian-ActionScript3" height="30" width="40" src="">                                                     
+  
+  
+  <img align="center" alt="Ian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Ian-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
      
