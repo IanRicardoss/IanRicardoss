@@ -53,8 +53,8 @@ I love the process of developing and automating processes. I love the challenge 
     <a href="https://www.youtube.com/channel/UCEdx2RRWqHEv1aGsXRlpF6A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>  
   
-## 
+## Snake eating my contribution graph
  
-  
+![snake gif](https://github.com/IanRicardoss/IanRicardoss/blob/output/github-contribution-grid-snake.gif)  
 
     
