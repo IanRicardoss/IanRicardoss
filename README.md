@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/IanRicardoss/IanRicardoss/blob/0c5eb874483c628985228bde47cb7af43fe21cae/BANNER%20GITHUB.jpg" alt="my banner"></a>
+  <a href="https://github.com/IanRicardoss" target="_blank" rel="noreferrer"><img src="https://github.com/IanRicardoss/IanRicardoss/blob/0c5eb874483c628985228bde47cb7af43fe21cae/BANNER%20GITHUB.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
